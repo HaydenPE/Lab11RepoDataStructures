@@ -13,7 +13,7 @@ using namespace std;
     widget1.storeInteger(1);
     widget1.storeInteger(3);
     int sum1 = widget1.sum();
-    cout << "sum1:"<<sum1 << " ";
+    cout << "sum1:"<<sum1 << " "; //Yipee! A comment! WIDFJDSIFJSDIDGJIGDFJGDIJXIV
 
     WidgetWithVector widget2;
     widget2.storeInteger(1);
